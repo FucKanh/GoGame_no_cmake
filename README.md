@@ -1,4 +1,5 @@
 # GoGame — No CMake (Makefile build)
+- Install `Makefile Tools` extension on vscode
 - Build: `make`
 - Run: `make run`
 - Clean: `make clean`
